@@ -75,4 +75,4 @@ uvicorn main:app --reload
 
 A API estará disponível em `http://localhost:8000`
 
-Documentação Swagger UI: `http://localhost:8000/docs`
+Documentação scalar-fastapi UI: `http://localhost:8000/scalar`
